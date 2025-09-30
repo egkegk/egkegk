@@ -1,7 +1,10 @@
 ## Hello! My name is Emrys and I use he/they pronouns.
 
-I am an MSc Statistics student at Imperial College London. I completed my undergraduate studies at Pomona College in Claremont, California, earning a Bachelor's of Arts in Mathematics (Statistics) and Spanish. I work mainly on data analysis and visualization. Feel free to explore this page to see source code for my coursework, my website, and other projects.
-
+I am an MSc Statistics student at Imperial College London. I completed my undergraduate studies at Pomona College in Claremont, California, earning a Bachelor's of Arts in Mathematics (Statistics) and Spanish. I work mainly on data analysis and visualization. Feel free to explore this page to see source code for:
+- my coursework
+- my website
+- other projects!
+  
 You can see some of my past experience on my [Linkedin](https://www.linkedin.com/in/emrys-king/).
 
 <!--
