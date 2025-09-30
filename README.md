@@ -7,6 +7,9 @@ I am an [MSc Statistics](https://www.imperial.ac.uk/mathematics/postgraduate/msc
   
 You can see some of my past experience on my [Linkedin](https://www.linkedin.com/in/emrys-king/).
 
+------
+last updated: 2024-09-31
+
 <!--
 **egkegk/egkegk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
